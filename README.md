@@ -1,6 +1,4 @@
-# Numerical-Control-Coding-
-Numerical control (also computer numerical control, and commonly called CNC) is the automated control of machining tools (such as drills, lathes, mills and 3D printers) by means of a computer.
-
-there are 2 codes used in the CNC machine, such as:
-- G-codes are used to command specific movements of the machine, such as machine moves or drilling functions.
-- M-codes are miscellaneous machine commands that do not command axis motion.
+# Computer Numerical Control
+Computer Numerical Control (CNC), in manufacturing, the control of a device, particularly machine tools, by direct input of data from a computer program. It is a
+principal element of computer-integrated manufacturing.
+https://th.bing.com/th/id/OIP.6CyZGpk2N_YF_yKexY1bSgHaE8?pid=ImgDet&rs=1
